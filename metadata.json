@@ -1,0 +1,7 @@
+{
+  "name": "Skill Gap Analyzer",
+  "description": "An AI-powered tool that analyzes resumes against job descriptions to identify skill gaps, recommend courses, and suggest job opportunities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
